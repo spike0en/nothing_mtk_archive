@@ -1,4 +1,4 @@
-name: Pacman Firmware Dumper
+name: Nothing MTK Firmware Dumper
 
 on:
   workflow_dispatch:
