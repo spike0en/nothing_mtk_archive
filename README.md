@@ -4,7 +4,7 @@
 
 ## Downloads
 
-- Downloads are tagged with `POST_OTA_VERSION` & `NothingOS version` [here](https://github.com/spike0en/Tetris_Archive/releases). It is to be noted that the releases are compatible with all regional variants of the device.
+- Downloads are tagged with `POST_OTA_VERSION` & `NothingOS version` [here](https://github.com/spike0en/Nothing_MTK_Archive/releases?q=tetris&expanded=true). It is to be noted that the releases are compatible with all regional variants of the device.
 
 - Official Full OTA Update Package is marked `-FullOTA`. Extract the splitted 7z parts to get the `<name>-FullOTA.zip`.
 
