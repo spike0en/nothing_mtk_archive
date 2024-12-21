@@ -36,6 +36,10 @@ Special thanks to:
 
 If you’ve found this archive helpful, please consider [starring the repository](https://github.com/spike0en/nothing_mtk_archive/stargazers) to boost its visibility and help others discover it. Your support means a lot—thank you!  
 
-[![Star History Chart](https://api.star-history.com/svg?repos=spike0en/nothing_mtk_archive&type=Date)](https://star-history.com/#spike0en/nothing_mtk_archive&Date)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=spike0en/nothing_mtk_archive&type=Date&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=spike0en/nothing_mtk_archive&type=Date" />
+  <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=spike0en/nothing_mtk_archive&type=Date" />
+</picture>
 
 ---
